@@ -5,7 +5,6 @@ metadata:
   annotations:
     dev.azure.com/project: lucarval-hello-world
     dev.azure.com/project-repo: lucarval-hello-world/org-lzhuang.pipelines-java
-    dev.azure.com/build-definition: latestBuild
 spec:
   type: service
   lifecycle: unknown
