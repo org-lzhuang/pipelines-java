@@ -3,7 +3,8 @@ kind: Component
 metadata:
   name: pipelines-java
   annotations:
-    dev.azure.com/project-repo: lucarval-hello-world/org-lzhuang.pipelines-java
+    dev.azure.com/project: lucarval-hello-world
+    dev.azure.com/build-definition: lastBuild
 spec:
   type: service
   lifecycle: unknown
