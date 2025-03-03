@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: pipelines-java
   annotations:
+    dev.azure.com/build-definition: build
     dev.azure.com/project: lucarval-hello-world
     dev.azure.com/host-org: dev.azure.com/rhtap-test
 spec:
