@@ -3,10 +3,8 @@ kind: Component
 metadata:
   name: pipelines-java
   annotations:
-    dev.azure.com/project-repo: lucarval-hello-world/org-lzhuang.pipelines-java
     dev.azure.com/build-definition: build
     dev.azure.com/project: lucarval-hello-world
-    dev.azure.com/host-org: dev.azure.com/rhtap-test
 spec:
   type: service
   lifecycle: unknown
