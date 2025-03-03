@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: pipelines-java
   annotations:
-    dev.azure.com/build-definition: build
+    dev.azure.com/build-definition: Test
     dev.azure.com/project: lucarval-hello-world
 spec:
   type: service
